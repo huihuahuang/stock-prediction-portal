@@ -14,9 +14,9 @@ const Main = () => {
             deleniti, nemo ab quam!
           </p>
           <Button
-            text="Login"
+            text="Explore Now"
             classType="btn-outline-info"
-            direction="/login"
+            direction="/dashboard"
           />
         </div>
       </div>
